@@ -1,3 +1,5 @@
+Just a quick test to demo using react to populate css variables and draw and style a variable sized css grid while just changing two size dimensions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
