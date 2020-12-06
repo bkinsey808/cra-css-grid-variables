@@ -1,3 +1,17 @@
 {
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "'Fira Code'",
+  "editor.tokenColorCustomizations": {
+    "comments": "#608b4e"
+  },
+  "explorer.openEditors.visible": 0,
+  "jest.runAllTestsFirst": true,
+  "jest.autoEnable": true,
+  "jest.showCoverageOnLoad": true,
+  "codemetrics.basics.ComplexityLevelLow": 7,
+  "codemetrics.basics.ComplexityLevelNormal": 8,
+  "codemetrics.nodeconfiguration.CaseClause": 0.5,
+  "codemetrics.nodeconfiguration.JsxElement": 0.1,
+  "codemetrics.nodeconfiguration.JsxSelfClosingElement": 0.1,
+  "codemetrics.nodeconfiguration.ReturnStatement": 0.1
 }

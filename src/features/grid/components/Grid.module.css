@@ -1,0 +1,17 @@
+.main {
+  --border-color: #d0eefc;
+  flex-grow: 1;
+  display: grid;
+  grid-template-rows: repeat(var(--rows), 1fr);
+  grid-template-columns: repeat(var(--cols), 1fr);
+  border-top: 1px solid var(--border-color);
+  border-left: 1px solid var(--border-color);
+  margin: 5px;
+}
+
+.main > * {
+  border-bottom: 1px solid var(--border-color);
+  border-right: 1px solid var(--border-color);
+  padding: 10px;
+  text-align: center;
+}
